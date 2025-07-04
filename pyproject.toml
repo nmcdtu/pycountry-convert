@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools>=42", "setuptools-scm>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools_scm]
+# This will write the version to a file that can be imported by your project
+write_to = "pycountry_convert/_version.py"
+write_to_template = "__version__ = \"{version}\"\n"
