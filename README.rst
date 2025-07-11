@@ -37,7 +37,7 @@ Overview
 pycountry-convert
 =================
 
-``pycountry-convert`` is a Python module for TUNE Multiverse Libraries.
+``pycountry-convert`` is a Python module for TUNE Multiverse Libraries. This version is updated with the Pypi version of 0.7.2 at https://pypi.org/project/pycountry-convert/.
 
 
 Installation
